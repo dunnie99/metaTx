@@ -1,0 +1,13 @@
+{
+  "relayer": {
+    "relayerId": "de3840d0-2459-4d1b-9199-045589b6420c",
+    "name": "MetaTxRelayer",
+    "address": "0x2d5139bb02cc32dc9fa49371234293cc60fccb44",
+    "network": "mainnet",
+    "createdAt": "2023-03-30T11:04:41.134Z",
+    "paused": false,
+    "policies": {},
+    "minBalance": "100000000000000000",
+    "pendingTxCost": "0"
+  }
+}
